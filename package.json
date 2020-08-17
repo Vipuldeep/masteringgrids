@@ -1,0 +1,22 @@
+{
+  "name": "thecompletewebdeveloper2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipuldeep/masteringgrids.git"
+  },
+  "author": "vipuldeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vipuldeep/masteringgrids/issues"
+  },
+  "homepage": "https://github.com/Vipuldeep/masteringgrids#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
